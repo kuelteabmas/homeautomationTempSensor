@@ -1,0 +1,10 @@
+C:\Users\gtg498u\Documents\VS2017\myGUIApp4BBB\myGUIApp4BBB\bin\Debug\myGUIApp4BBB.exe.config
+C:\Users\gtg498u\Documents\VS2017\myGUIApp4BBB\myGUIApp4BBB\bin\Debug\myGUIApp4BBB.exe
+C:\Users\gtg498u\Documents\VS2017\myGUIApp4BBB\myGUIApp4BBB\bin\Debug\myGUIApp4BBB.pdb
+C:\Users\gtg498u\Documents\VS2017\myGUIApp4BBB\myGUIApp4BBB\obj\Debug\myGUIApp4BBB.csprojResolveAssemblyReference.cache
+C:\Users\gtg498u\Documents\VS2017\myGUIApp4BBB\myGUIApp4BBB\obj\Debug\myGUIApp4BBB.Form1.resources
+C:\Users\gtg498u\Documents\VS2017\myGUIApp4BBB\myGUIApp4BBB\obj\Debug\myGUIApp4BBB.Properties.Resources.resources
+C:\Users\gtg498u\Documents\VS2017\myGUIApp4BBB\myGUIApp4BBB\obj\Debug\myGUIApp4BBB.csproj.GenerateResource.cache
+C:\Users\gtg498u\Documents\VS2017\myGUIApp4BBB\myGUIApp4BBB\obj\Debug\myGUIApp4BBB.csproj.CoreCompileInputs.cache
+C:\Users\gtg498u\Documents\VS2017\myGUIApp4BBB\myGUIApp4BBB\obj\Debug\myGUIApp4BBB.exe
+C:\Users\gtg498u\Documents\VS2017\myGUIApp4BBB\myGUIApp4BBB\obj\Debug\myGUIApp4BBB.pdb

@@ -1,0 +1,30 @@
+C:\Users\gtg498u\Desktop\CPE4020\coursedocs\CpE4020_Labs\Lab9\Local Lab Files\myLocalGatewayApplication\myGUIApp4BBB\bin\Debug\myLocalGatewayApplication.exe.config
+C:\Users\gtg498u\Desktop\CPE4020\coursedocs\CpE4020_Labs\Lab9\Local Lab Files\myLocalGatewayApplication\myGUIApp4BBB\bin\Debug\myLocalGatewayApplication.exe
+C:\Users\gtg498u\Desktop\CPE4020\coursedocs\CpE4020_Labs\Lab9\Local Lab Files\myLocalGatewayApplication\myGUIApp4BBB\bin\Debug\myLocalGatewayApplication.pdb
+C:\Users\gtg498u\Desktop\CPE4020\coursedocs\CpE4020_Labs\Lab9\Local Lab Files\myLocalGatewayApplication\myGUIApp4BBB\obj\Debug\myLocalGatewayApplication.csprojResolveAssemblyReference.cache
+C:\Users\gtg498u\Desktop\CPE4020\coursedocs\CpE4020_Labs\Lab9\Local Lab Files\myLocalGatewayApplication\myGUIApp4BBB\obj\Debug\myLocalGatewayApplication.Form1.resources
+C:\Users\gtg498u\Desktop\CPE4020\coursedocs\CpE4020_Labs\Lab9\Local Lab Files\myLocalGatewayApplication\myGUIApp4BBB\obj\Debug\myLocalGatewayApplication.Properties.Resources.resources
+C:\Users\gtg498u\Desktop\CPE4020\coursedocs\CpE4020_Labs\Lab9\Local Lab Files\myLocalGatewayApplication\myGUIApp4BBB\obj\Debug\myLocalGatewayApplication.csproj.GenerateResource.cache
+C:\Users\gtg498u\Desktop\CPE4020\coursedocs\CpE4020_Labs\Lab9\Local Lab Files\myLocalGatewayApplication\myGUIApp4BBB\obj\Debug\myLocalGatewayApplication.csproj.CoreCompileInputs.cache
+C:\Users\gtg498u\Desktop\CPE4020\coursedocs\CpE4020_Labs\Lab9\Local Lab Files\myLocalGatewayApplication\myGUIApp4BBB\obj\Debug\myLocalGatewayApplication.exe
+C:\Users\gtg498u\Desktop\CPE4020\coursedocs\CpE4020_Labs\Lab9\Local Lab Files\myLocalGatewayApplication\myGUIApp4BBB\obj\Debug\myLocalGatewayApplication.pdb
+C:\Users\gtg498u\Desktop\Local Lab Files\Local Lab Files\myLocalGatewayApplication\myGUIApp4BBB\bin\Debug\myLocalGatewayApplication.exe.config
+C:\Users\gtg498u\Desktop\Local Lab Files\Local Lab Files\myLocalGatewayApplication\myGUIApp4BBB\bin\Debug\myLocalGatewayApplication.exe
+C:\Users\gtg498u\Desktop\Local Lab Files\Local Lab Files\myLocalGatewayApplication\myGUIApp4BBB\bin\Debug\myLocalGatewayApplication.pdb
+C:\Users\gtg498u\Desktop\Local Lab Files\Local Lab Files\myLocalGatewayApplication\myGUIApp4BBB\obj\Debug\myLocalGatewayApplication.csprojResolveAssemblyReference.cache
+C:\Users\gtg498u\Desktop\Local Lab Files\Local Lab Files\myLocalGatewayApplication\myGUIApp4BBB\obj\Debug\myLocalGatewayApplication.Form1.resources
+C:\Users\gtg498u\Desktop\Local Lab Files\Local Lab Files\myLocalGatewayApplication\myGUIApp4BBB\obj\Debug\myLocalGatewayApplication.Properties.Resources.resources
+C:\Users\gtg498u\Desktop\Local Lab Files\Local Lab Files\myLocalGatewayApplication\myGUIApp4BBB\obj\Debug\myLocalGatewayApplication.csproj.GenerateResource.cache
+C:\Users\gtg498u\Desktop\Local Lab Files\Local Lab Files\myLocalGatewayApplication\myGUIApp4BBB\obj\Debug\myLocalGatewayApplication.csproj.CoreCompileInputs.cache
+C:\Users\gtg498u\Desktop\Local Lab Files\Local Lab Files\myLocalGatewayApplication\myGUIApp4BBB\obj\Debug\myLocalGatewayApplication.exe
+C:\Users\gtg498u\Desktop\Local Lab Files\Local Lab Files\myLocalGatewayApplication\myGUIApp4BBB\obj\Debug\myLocalGatewayApplication.pdb
+C:\Users\sambaetleuk\Google Drive\Schoolwork\KSU (2016-Present)\CPE 4020 - Device Networks\Labs\Lab 10\myLocalGatewayApplication\myGUIApp4BBB\bin\Debug\myLocalGatewayApplication.exe.config
+C:\Users\sambaetleuk\Google Drive\Schoolwork\KSU (2016-Present)\CPE 4020 - Device Networks\Labs\Lab 10\myLocalGatewayApplication\myGUIApp4BBB\bin\Debug\myLocalGatewayApplication.exe
+C:\Users\sambaetleuk\Google Drive\Schoolwork\KSU (2016-Present)\CPE 4020 - Device Networks\Labs\Lab 10\myLocalGatewayApplication\myGUIApp4BBB\bin\Debug\myLocalGatewayApplication.pdb
+C:\Users\sambaetleuk\Google Drive\Schoolwork\KSU (2016-Present)\CPE 4020 - Device Networks\Labs\Lab 10\myLocalGatewayApplication\myGUIApp4BBB\obj\Debug\myLocalGatewayApplication.csprojAssemblyReference.cache
+C:\Users\sambaetleuk\Google Drive\Schoolwork\KSU (2016-Present)\CPE 4020 - Device Networks\Labs\Lab 10\myLocalGatewayApplication\myGUIApp4BBB\obj\Debug\myLocalGatewayApplication.Form1.resources
+C:\Users\sambaetleuk\Google Drive\Schoolwork\KSU (2016-Present)\CPE 4020 - Device Networks\Labs\Lab 10\myLocalGatewayApplication\myGUIApp4BBB\obj\Debug\myLocalGatewayApplication.Properties.Resources.resources
+C:\Users\sambaetleuk\Google Drive\Schoolwork\KSU (2016-Present)\CPE 4020 - Device Networks\Labs\Lab 10\myLocalGatewayApplication\myGUIApp4BBB\obj\Debug\myLocalGatewayApplication.csproj.GenerateResource.cache
+C:\Users\sambaetleuk\Google Drive\Schoolwork\KSU (2016-Present)\CPE 4020 - Device Networks\Labs\Lab 10\myLocalGatewayApplication\myGUIApp4BBB\obj\Debug\myLocalGatewayApplication.csproj.CoreCompileInputs.cache
+C:\Users\sambaetleuk\Google Drive\Schoolwork\KSU (2016-Present)\CPE 4020 - Device Networks\Labs\Lab 10\myLocalGatewayApplication\myGUIApp4BBB\obj\Debug\myLocalGatewayApplication.exe
+C:\Users\sambaetleuk\Google Drive\Schoolwork\KSU (2016-Present)\CPE 4020 - Device Networks\Labs\Lab 10\myLocalGatewayApplication\myGUIApp4BBB\obj\Debug\myLocalGatewayApplication.pdb
